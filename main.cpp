@@ -20,7 +20,7 @@ int main()
     std::cout << "float - 4 bytes, [+- 3.4E-38 - 3.4E+38]" << std::endl;
     std::cout << "double - 8 bytes, [+- 1.7E-308 - 1.7E+308]" << std::endl;
     std::cout << "long double - 8 bytes" << std::endl;
-    std::cout << "bool, true-false" << std::endl;
+    std::cout << "bool - 1 byte, true-false" << std::endl;
     std::cout << "" << std::endl;
 
     // signed char
